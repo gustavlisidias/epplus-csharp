@@ -1,0 +1,8 @@
+C:\Projetos\EpPlusGx16\bin\Debug\EpPlusGx16.dll
+C:\Projetos\EpPlusGx16\bin\Debug\EpPlusGx16.pdb
+C:\Projetos\EpPlusGx16\bin\Debug\EPPlus.dll
+C:\Projetos\EpPlusGx16\obj\Debug\EpPlusGx16.csproj.AssemblyReference.cache
+C:\Projetos\EpPlusGx16\obj\Debug\EpPlusGx16.csproj.CoreCompileInputs.cache
+C:\Projetos\EpPlusGx16\obj\Debug\EpPlusGx16.csproj.CopyComplete
+C:\Projetos\EpPlusGx16\obj\Debug\EpPlusGx16.dll
+C:\Projetos\EpPlusGx16\obj\Debug\EpPlusGx16.pdb
